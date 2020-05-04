@@ -1,2 +1,4 @@
 # oke
- Set oracle kubernetes config
+ Set oracle and kubernetes config
+ 
+ 
